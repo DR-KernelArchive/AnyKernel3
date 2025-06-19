@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Kernel by aryannn999 @ xda-developers
+kernel.string=Kernel by backslashxx @ xda-developers
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -19,8 +19,8 @@ supported.vendorpatchlevels=
 
 
 # boot shell variables
-BLOCK=/dev/block/bootdevice/by-name/boot;
-IS_SLOT_DEVICE=0;
+BLOCK=boot;
+IS_SLOT_DEVICE=1;
 RAMDISK_COMPRESSION=auto;
 
 # import functions/variables and setup patching - see for reference (DO NOT REMOVE)
