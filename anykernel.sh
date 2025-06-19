@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Kernel by VenturX / StarifyBuilder @ xda-developers
+kernel.string=Kernel by VenturX @ xda-developers
 do.devicecheck=1
 do.modules=0
 do.systemless=1
