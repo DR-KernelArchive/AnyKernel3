@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=InfiniR by raystef66 / StarifyBuilder
+kernel.string=InfiniR by raystef66 / Build from RainyLand
 do.devicecheck=1
 do.modules=0
 do.systemless=0
