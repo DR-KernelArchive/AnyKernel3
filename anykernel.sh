@@ -4,14 +4,13 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Kernel by backslashxx @ xda-developers
+kernel.string=Kernel by Bifr0st @ xda-developers
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=mojito
-device.name2=sunny
+device.name1=enuma
 supported.versions=11 - 15
 supported.patchlevels=
 supported.vendorpatchlevels=
