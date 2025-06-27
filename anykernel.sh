@@ -18,6 +18,7 @@ supported.vendorpatchlevels=
 
 
 # boot shell variables
+kernel=Image.gz-dtb
 BLOCK=boot;
 IS_SLOT_DEVICE=1;
 RAMDISK_COMPRESSION=auto;
