@@ -4,14 +4,13 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Kernel by backslashxx @ xda-developers
+kernel.string=Kernel by ? @ xda-developers
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=mojito
-device.name2=sunny
+device.name1=peridot
 supported.versions=11 - 15
 supported.patchlevels=
 supported.vendorpatchlevels=
@@ -20,7 +19,7 @@ supported.vendorpatchlevels=
 
 # boot shell variables
 BLOCK=boot;
-IS_SLOT_DEVICE=1;
+IS_SLOT_DEVICE=auto;
 RAMDISK_COMPRESSION=auto;
 
 # import functions/variables and setup patching - see for reference (DO NOT REMOVE)
