@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Ryzen Kernel [Retrofit Dynamic] by Ryuzenn @ telegram
+kernel.string=Bimasakti Kernel (Based on RyzenKernel) @ telegram
 do.devicecheck=1
 do.modules=1
 do.systemless=0
