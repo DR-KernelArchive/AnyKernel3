@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Kernel by VenturX @ xda-developers
+kernel.string=Kernel by VenturX / RainyXeon @ xda-developers
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -12,7 +12,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=sweet
 device.name2=sweetin
-supported.versions=11 - 15
+supported.versions=11 - 16
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
