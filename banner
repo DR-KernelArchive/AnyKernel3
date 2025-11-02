@@ -1,16 +1,23 @@
-======================================================
-     *          *       *      *        *     *   
-  *        *          *     *      *         *    
-      *     *     *        *   *       *     *    
- *        *     *        *        *         *     
-    *        *      *        *        *         * 
-======================================================
- - MoonWake Kernel
- - Build with RainyLand Github CI workflow
- - By RainyXeon
-======================================================
- - Telegram:       t.me/rainy_land_releases
- - Chat:           t.me/rainy_land_release_chat
- - Device Channel: t.me/RedmiNote12ProPlusUpdates
- - Device Group:   t.me/RedmiNote12ProPlusCommunity
-======================================================
+               _______  .__.__               
+  ____ ___  ___\      \ |__|__| ____   ____  
+_/ __ \\  \/  //   |   \|  |  |/ ___\ /  _ \ 
+\  ___/ >    </    |    \  |  / /_/  >  <_> )
+ \___  >__/\_ \____|__  /__|__\___  / \____/ 
+     \/      \/       \/     /_____/         
+     
+extremeNiigo kernel for blossom
+includes SukiSU Ultra (non-SuSFS), ver 3.2.0@nongki
+bouns SuSFS 1.5.12 (tks @RainyXeon)
+by fukiame and iaminhel (on telegram)
+
+changelog:
+- no changelog
+
+notes: 
+- SELinux is enforcing
+- recommended flash MIUI 12.5 (R Vendor) before try this kernel 
+- test build
+
+#SukiSU #Blossom #niigo #extremeNiigo
+      
+
