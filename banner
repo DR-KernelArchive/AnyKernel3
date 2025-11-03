@@ -1,3 +1,6 @@
+===============================================
+          WARNING: EXPERIMENTAL BUILD
+===============================================
                _______  .__.__               
   ____ ___  ___\      \ |__|__| ____   ____  
 _/ __ \\  \/  //   |   \|  |  |/ ___\ /  _ \ 
@@ -5,19 +8,20 @@ _/ __ \\  \/  //   |   \|  |  |/ ___\ /  _ \
  \___  >__/\_ \____|__  /__|__\___  / \____/ 
      \/      \/       \/     /_____/         
      
-extremeNiigo kernel for blossom
-includes SukiSU Ultra (non-SuSFS), ver 3.2.0@nongki
-bouns SuSFS 1.5.12 (tks @RainyXeon)
-by fukiame and iaminhel (on telegram)
+extreme/extended Niigo kernel for blossom
 
-changelog:
-- no changelog
+Features
+- Includes SukiSU Ultra, ver 3.2.0@susfs-main
+- SuSFS 1.5.12 (tks @RainyXeon)
 
-notes: 
+Notes: 
 - SELinux is enforcing
-- recommended flash MIUI 12.5 (R Vendor) before try this kernel 
-- test build
+- Recommended flash MIUI 12.5 (R Vendor) 
+  before try this kernel 
+- Experimental build
+- By fukiame and iaminhel (on telegram)
 
 #SukiSU #Blossom #niigo #extremeNiigo
-      
-
+===============================================
+          WARNING: EXPERIMENTAL BUILD
+===============================================
